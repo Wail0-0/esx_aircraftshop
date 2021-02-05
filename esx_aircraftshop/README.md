@@ -1,68 +1,31 @@
 # About esx_aircraftshop:
-Aircraft Shop for ESX Servers
+Aircraft dealer for esx servers.
 
-I did NOT create the Code. I only edited the esx_vehicleshop code to create this new shop. This code unlike most other versions out there do NOT interfere with the Original esx_vehicleshop.
+This is a aircraft dealer/shop that works exactly as "esx_vehicleshop" but instead of buying cars you buy aircrafts.
+I did't code this script, i just edited a lot so it works perfectly. But why? yes there is another esx_aicratshop but that 1 doesn't work for me and
+you can get your aircrafts out of your normal vehicle garage. In the sql file it makes a table named: "owned_aircrafts" and it will save the aircrafts you bought there
+and not in "owned_vehicles" so you can only take it out of specific garages. 
 
-This Aircraft Shop works just like esx_vehicleshop. However tho instead of Players buying Cars they can Buy/Sell Aircrafts. I created this because i couldn't find a Aircraft Shop Script & instead of waiting for others i went ahead & did it myself. 
 
 # NOTE:
-This will no longer be updated. Please use my esx_advancedvehicleshop if you want an updated Version.
+If you have a garage script make sure it searches for "owned_aircrafts" instead of "owned_vehicles" so you can 
+get the aircrafts out of the garage!
 
-# Requirements:
-* Required:
-  * NONE
-* Optional:
-  * [esx_advancedgarage](https://github.com/HumanTree92/esx_advancedgarage)
-
-# Download & Installation:
+# How to put it in your server?:
 1) Download the .zip.
-2) Extract the .zip or Open the .zip.
-3) Import `esx_aircraftshop.sql` in your database
-4) Place `esx_aircraftshop` in your ESX Directory
-5) Add `start esx_aircraftshop` to your server.cfg
+2) Extract or open the zip file.
+3) Import `esx_aircraftshop.sql` in your database.
+4) Place `esx_aircraftshop` in your server files.
+5) Add `start esx_aircraftshop` to your server.cfg.
 
-# Credits/Original Code:
+# Credits:
 * [ESX-Org](https://github.com/ESX-Org)
   * [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
+   * [esx_aircraftshop](https://github.com/HumanTree92/esx_aircraftshop) (inspiration)
 
-# Other Scripts:
-If you like this please check out some of my other stuff like
-* [esx_advancedgarage](https://github.com/HumanTree92/esx_advancedgarage)
-* [esx_advancedvehicleshop](https://github.com/HumanTree92/esx_advancedvehicleshop)
-* [esx_advancedhospital](https://github.com/HumanTree92/esx_advancedhospital)
-* [esx_extraitems](https://github.com/HumanTree92/esx_extraitems)
-* [esx_licenseshop](https://github.com/HumanTree92/esx_licenseshop)
-* [esx_vehiclespawner](https://github.com/HumanTree92/esx_vehiclespawner)
-* [FiveM_CustomMapAddons](https://github.com/HumanTree92/FiveM_CustomMapAddons)
-
-# Archived Scripts:
-Scripts that will no longer be Maintained.
-* [esx_aircraftshop](https://github.com/HumanTree92/esx_aircraftshop)
-* [esx_boatshop](https://github.com/HumanTree92/esx_boatshop)
-* [esx_truckshop](https://github.com/HumanTree92/esx_truckshop)
-* [esx_plasticsurgery](https://github.com/HumanTree92/esx_plasticsurgery)
-* [esx_hospital](https://github.com/HumanTree92/esx_hospital)
-* [esx_panicbutton](https://github.com/HumanTree92/esx_panicbutton)
-
-# Visit Velociti Entertainment:
-* TS3 - ts3.velocitientertainment.com
-* [Discord](http://discord.velocitientertainment.com)
-* [Website](http://velocitientertainment.com/)
-* [Forums](http://velocitientertainment.com/forum)
-* [About Us](http://velocitientertainment.com/pc-gaming/)
-* [Donate](http://velocitientertainment.com/donations/)
-* [Steam Group](http://steamcommunity.com/groups/velocitientertainment)
-* [Facebook](http://facebook.com/VelocitiEntertainment)
-* [Twitter](http://twitter.com/VelocitiEnt)
-* [YouTube](http://youtube.com/user/HumanTree92)
-* [Twitch](http://twitch.tv/humantree92)
-* [eBay](http://ebay.com/usr/humantree92)
-
-# Legal
+# Legal:
 ### License
-esx_aircraftshop - Aircraft Shop for ESX Servers.
-
-Copyright (C) 2011-2020 Velociti Entertainment
+esx_aircraftshop - Aircraft | dealer for servers based on ESX.
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
