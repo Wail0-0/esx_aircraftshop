@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Vehicle Shop'
+description 'ESX Aircraft Shop'
 
 version '1.1.0'
 
