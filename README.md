@@ -1,3 +1,5 @@
+
+
 # About esx_aircraftshop:
 Aircraft dealer for esx servers.
 
@@ -25,6 +27,4 @@ get the aircrafts out of the garage!
 
 # Legal:
 
-Legal? Do what you want with it just trying to help ppl out <3
-
-![](images/original.png)
+Legal? Do what you want with it just trying to help ppl out 💜
