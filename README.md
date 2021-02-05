@@ -27,4 +27,4 @@ get the aircrafts out of the garage!
 
 Legal? Do what you want with it just trying to help ppl out <3
 
-![](images/giphy.gif)
+![](images/original.png)
