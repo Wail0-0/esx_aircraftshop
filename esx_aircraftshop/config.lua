@@ -8,8 +8,6 @@ Config.Locale                     = 'en'
 
 Config.LicenseEnable = false -- require people to own drivers license when buying vehicles? Only applies if EnablePlayerManagement is disabled. Requires esx_license
 
--- looks like this: 'LLL NNN'
--- The maximum plate length is 8 chars (including spaces & symbols), don't go past it!
 Config.PlateLetters  = 3
 Config.PlateNumbers  = 3
 Config.PlateUseSpace = true
